@@ -1,0 +1,44 @@
+{
+	"storyName": "PICO",
+	"difficulties": "nightmare",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pico erect",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Philly Nice erect",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Blammed erect",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		]
+	],
+	"weekName": "Week 3"
+}

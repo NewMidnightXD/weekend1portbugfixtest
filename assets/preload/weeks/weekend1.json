@@ -1,0 +1,59 @@
+{
+	"storyName": "DUE DEBITS",
+	"difficulties": "normal,hard,easy",
+	"hideFreeplay": false,
+	"weekBackground": "darnell",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"darnell",
+		"picop1",
+		"nene"
+	],
+	"songs": [
+		[
+			"darnell",
+			"darnell",
+			[
+				148,
+				117,
+				245
+			]
+		],
+		[
+			"lit-up",
+			"darnell",
+			[
+				148,
+				117,
+				245
+			]
+		],
+		[
+			"2hot",
+			"darnell",
+			[
+				148,
+				117,
+				245
+			]
+		],
+		[
+			"blazin",
+			"darnell",
+			[
+				148,
+				117,
+				245
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekend 1",
+	"hiddenUntilUnlocked": false
+}
